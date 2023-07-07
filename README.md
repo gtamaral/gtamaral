@@ -8,9 +8,8 @@
   </ul>
 </div>
 <!--- snake -->
-<div align="center">
-  ![Snake animation](https://github.com/gtamaral/gtamaral/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/gtamaral/gtamaral/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
