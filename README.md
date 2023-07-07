@@ -1,6 +1,4 @@
 ### Hi there, I'm Rodrigo Amaral Jucá 👋
-##### | Information Systems Undergraduate at CIN - UFPE
-
 
 
 
@@ -36,6 +34,8 @@
 <a href="https://github.com/gtamaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtamaral&theme=dracula&show_icons=true" />
 </a>
+
+![gtamaral](https://github-readme-stats.vercel.app/api/top-langs/?username=gtamaral&hide=html&layout=compact&theme=dracula)    
 
 <br/>
 
