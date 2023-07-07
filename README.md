@@ -42,5 +42,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Rodrigo Amaral Jucá](https://img.shields.io/badge/-Rodrigojucadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojucadev/)](https://www.linkedin.com/in/rodrigojucadev/)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigoeaj@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoeaj@hotmail.com)](mailto:rodrigoeaj@hotmail.com)
+[![Outlook](https://img.shields.io/badge/-rodrigoeaj@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rodrigoeaj@hotmail.com)](mailto:rodrigoeaj@hotmail.com)
 [![GitHub gtmaral]( https://img.shields.io/github/followers/gtamaral?label=follow&style=social)](https://github.com/gtamaral)
