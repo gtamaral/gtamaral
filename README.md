@@ -16,7 +16,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://portal.cin.ufpe.br/">Centro de informática - UFPE</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **desenvolvimento web**.
+- 🌱 &nbsp; Estudando **Nextjs, Typescript e Tailwind**.
+- 🌱 &nbsp; Aprendendo mais sobre **desenvolvimento de software**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
