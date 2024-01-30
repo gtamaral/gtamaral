@@ -26,7 +26,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Utilidades**
+**Utilities**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
