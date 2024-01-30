@@ -1,5 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -9,19 +7,16 @@
 </div>
 <!--- snake -->
 
-![Snake animation](https://github.com/gtamaral/gtamaral/blob/output/github-contribution-grid-snake.svg)
+<h3>About me</h3>
 
+-  Software developer
+-  Exploring new technologies and developing software solutions.
+-  Studying **Information System** at <a href="https://portal.cin.ufpe.br/">Cin - UFPE</a>.
+-  Learning **Nextjs, Typescript e Tailwind**.
 
-<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
+<h3>Skills</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://portal.cin.ufpe.br/">Centro de informática - UFPE</a>.
-- 🌱 &nbsp; Estudando **Nextjs, Typescript e Tailwind**.
-- 🌱 &nbsp; Aprendendo mais sobre **desenvolvimento de software**.
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+**Stacks**
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +45,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to Find Me: </h3> 
 
 [![Linkedin: Rodrigo Amaral Jucá](https://img.shields.io/badge/-Rodrigojucadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojucadev/)](https://www.linkedin.com/in/rodrigojucadev/)
 [![Outlook](https://img.shields.io/badge/-rodrigoeaj@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rodrigoeaj@hotmail.com)](mailto:rodrigoeaj@hotmail.com)
